@@ -9,3 +9,4 @@ int main(){
     cout << 123 << endl;
     cout << umur;
 }
+
